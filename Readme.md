@@ -41,7 +41,6 @@ This dataset includes information about individual rides made in a bike-sharing 
 - Average ride duration is highest for casual customers then subscribers who are not member of `bike_share_for_all_trip` then those who are member in this option.
 
 ## Key Insights
----
 
 - The higher ride frequencies for the morning (8th and 9th hrs) and evening (17th and 18th hrs) can be linked to rush hours where people leave for work and come back later in the evening.
 
