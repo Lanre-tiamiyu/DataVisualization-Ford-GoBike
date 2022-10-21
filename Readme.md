@@ -1,14 +1,12 @@
 ## Data Visualization - Ford GoBike
----
 
 ### Dataset
----
+
 Ford-goBike-dataset-exploration is a project doing exploratory visualization on the bike trip dataset. The dataset, 201902-fordgobike-tripdata.csv, is downloaded from [Ford GoBike](https://s3.amazonaws.com/fordgobike-data/index.html "Ford GoBike") and licensed by [Ford GoBike](https://assets.fordgobike.com/data-license-agreement.html "Ford GoBike"). 
 
 This dataset includes information about individual rides made in a bike-sharing system covering the greater San Francisco Bay area in 2019. 
 
 ## Table of Contents
-____
 
 - `ford-gobike-dateset-exploration-part1.ipynb` : The Jupyter Notebook version of exploratory visualization
 
@@ -25,7 +23,6 @@ ____
 - `fordgobike_clean.csv` : The cleaned dataset used for explanatory visualization 
 
 ## Summary of Findings
----
 
 ### Univariate exploration: 
 - The ride duration exhibts a log normal distribution with most of the rides having a duration between 5 and 15 minutes. Most of the rides take place during weekdays with a daily bimodal distribution with peaks at 8am and 5pm suggesting the the rides are used mainly to go to and from work.
