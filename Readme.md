@@ -18,10 +18,6 @@ This dataset includes information about individual rides made in a bike-sharing 
 
 - `ford-gobike-dateset-exploration-slides.html` : The html presentation of the key finding and recommendation
 
-- `201902-fordgobike-tripdata.csv` : The original dataset
-
-- `fordgobike_clean.csv` : The cleaned dataset used for explanatory visualization 
-
 ## Summary of Findings
 
 ### Univariate exploration: 
